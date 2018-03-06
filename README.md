@@ -1,10 +1,9 @@
-Trivia Game
-
+<h1>Trivia Game</h1>
 Homework 5
 
 https://kaileytetrick.github.io/TriviaGame/
 
-Belize It or Not!
+<h2>Belize It or Not!</h2>
 
 A timed triva game to test the players knowledge of Belize.
 
