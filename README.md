@@ -11,7 +11,7 @@ A timed triva game to test the players knowledge of Belize.
 <ul>
 <li>Players are presented with a multiple choice question and given 20 seconds to select the corret answer out of four possible answers.</li>
 <li>Once players submit their answer or time runs out, they are informed of the correct answer with a correlating image and they move on to the next question. 
-<li>At the end of the game, players are given their totals for correct and incorrect answers. 
+<li>At the end of the game, players are given their totals for correct and incorrect answers, as well as unanswered. 
 </ul>
 
 <h3>Built with:</h3>
